@@ -27,7 +27,7 @@ html
 iframe {
 	text-align: center;
     padding: 1px;
-    background-color: lightblue;
+    background-color: lightpink;
     border-radius: 20px 20px 20px 20px;
     border: solid grey 1px;
 	
@@ -36,7 +36,7 @@ iframe {
 {
 	text-align: center;
     padding: 1px;
-    background-color: lightblue;
+    background-color: black;
         border-radius: 20px 20px 20px 20px;
     border: solid grey 1px;
 }
@@ -47,7 +47,7 @@ iframe {
     padding: 1px;
     background-color: lightblue;
         border-radius: 20px 20px 20px 20px;
-    border: solid grey 1px;
+    border: solid black 1px;
 }
 
 .baslik span 
@@ -55,7 +55,7 @@ iframe {
     font-size: 21px;
     font-family: cursive;
     font-weight: bold;
-        color: #523737;
+        color: red;
             opacity: 15.8;
 
 }
@@ -119,7 +119,7 @@ iframe {
     width: 100px;
     height: 40px;
     border-radius: 5px 5px 5px 5px;
-    background-color: white;
+    background-color: red;
 }
 
 fieldset {
